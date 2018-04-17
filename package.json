@@ -1,0 +1,25 @@
+{
+  "name": "hack-ie9",
+  "version": "0.0.1",
+  "description": "hack ie9",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heavenswen/hack-ie9.git"
+  },
+  "keywords": [
+    "ie9",
+    "classlsit\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[",
+    "classlait\u001b[D\u001b[s\u001b[C\u001b[C",
+    "dataset"
+  ],
+  "author": "423822728@qq.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heavenswen/hack-ie9/issues"
+  },
+  "homepage": "https://github.com/heavenswen/hack-ie9#readme"
+}
